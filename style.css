@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/related-1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/related-2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/related-3.jpg);
+}
+.container {
+  width: 100%;
+  height: 500px;
+}
